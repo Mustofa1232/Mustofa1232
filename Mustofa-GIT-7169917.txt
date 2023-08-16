@@ -1,0 +1,29 @@
+git merupakan sistem kontrol versi terdistribusi yang dikembangkan oleh linus torvalds tahun 2005.git merupakan alat penting dalam pengembangan perangkat lunak modern 
+yang memungkinkan pengembang untuk melacak perubahan dalam kode sumber,bekerja sama secara efisien, dan mengelola proyek dengan lebih baik.
+manfaat git :
+1. Kontrol Versi: Git memungkinkan pengembang untuk melacak perubahan pada kode sumber.
+2. kerjasama tim: git mendorong kolaborasi antara pengembang.
+3. Desain Cabang Fleksibel: git dapat membuat cabang terpisah untuk mengembangkan fitur tanpa mengganggu cabang utama.
+4. Keandalan dan Keamanan: adanya pelacakan setiap perubahan dengan cermaat.
+kata kunci :
+1. Repository: Tempat semua informasi proyek disimpan, termasuk kode sumber, sejarah perubahan, dan konfigurasi proyek.
+2. Commit: Representasi dari perubahan tertentu pada kode sumber.
+3.Branch: Cabang independen di dalam repository yang memungkinkan pengembangan paralel. 
+4.Merge: Proses menggabungkan perubahan dari satu cabang ke cabang lainnya.
+5. Pull Request: Permintaan untuk menggabungkan perubahan dari satu cabang ke cabang utama. 
+Contoh Penggunaan:
+Misalnya, dalam proyek pengembangan perangkat lunak, seorang pengembang dapat membuat cabang untuk mengembangkan fitur baru. Setelah fitur tersebut selesai,
+dia bisa mengajukan pull request. Tim pemeriksa kode akan mengevaluasi perubahan dan memberikan masukan. Setelah perubahan diulas dan dianggap siap, fitur tersebut
+akan digabungkan ke cabang utama.
+kelebihan git 
+1. mengelola kode sumber mudah dan efisien.
+2. melakukan branching dan merging dengan aman dan mudah.
+3. dapat melacak perubahan pada source code.
+4. performa yang cepat dan stabil dalam pengolahan kode sumber.
+kelemahan git
+1. fitur  yang komplek dan terkadang membingungkan bagi pemula.
+2. memerlukan pemahaman yang baik tentang dasar git seperti repository,commit,branching,dan merging.
+Kesimpulan:
+Git telah mengubah cara pengembangan perangkat lunak dilakukan dengan memfasilitasi kontrol versi yang efektif, kolaborasi tim yang lebih baik,
+dan manajemen proyek yang lebih terstruktur. Penggunaan konsep seperti repository, commit, branch, merge, dan pull request telah membantu mengatasi banyak
+tantangan dalam pengembangan perangkat lunak modern.
